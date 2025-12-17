@@ -29,16 +29,10 @@
 ## 📊 Моя статистика GitHub
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=JeinLo&show_icons=true&theme=react-dark&count_private=true&include_all_commits=true" alt="Статистика GitHub" />
+<img src="https://github-readme-stats.vercel.app/api?username=JeinLo&show_icons=true&theme=react-dark&count_private=true" alt="Статистика GitHub" />
 
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeinLo&layout=compact&theme=react-dark" alt="Наиболее используемые языки" />
-
-> 💡 Эти блоки — динамические. Они автоматически обновляются при вашей активности на GitHub и отображают:
-> - Общее количество коммитов, репозиториев, звёзд  
-> - Ваши самые используемые языки программирования  
-> 
-> Источник: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
