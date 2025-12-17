@@ -1,16 +1,53 @@
-## Hi there 👋
+# Привет, меня зовут Евгения! 👋
 
-<!--
-**JeinLo/JeinLo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я фронтенд-разработчик, увлечённая созданием удобных и эстетичных веб-приложений. Учусь, экспериментирую и постоянно развиваюсь в веб-разработке.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Мой стек и навыки
+
+- ✨ JavaScript, TypeScript  
+- ✨ HTML5, CSS3, Sass (SCSS), БЭМ  
+- ✨ React, Next.js  
+- ✨ Webpack, Git  
+- ✨ Работа в команде, взаимодействие с API  
+- ✨ Figma, Pixso  
+- ✨ Tilda  
+
+---
+
+## 🚀 Мои проекты
+
+- ⚡ [**Интернет-магазин мебели**](https://github.com/JeinLo/First-academic-project) — простой сайт интернет-магазина мебели, в котором использованы базовые навыки верстки  
+- ⚡ [**Мини-игры**](https://github.com/JeinLo/HomeWork-1) — сайт, который содержит шесть простых мини-игр  
+- ⚡ [**Обмен фотографиями**](https://github.com/JeinLo/webdev-cw-instapro) — MVP социальной сети для обмена фотографиями  
+- ⚡ [**Канбан-доска**](https://github.com/JeinLo/skypro-kanban) — веб-приложение для управления задачами с drag-and-drop, авторизацией и темной/светлой темой  
+- ⚡ [**Музыкальный сервис**](https://github.com/JeinLo/skypro-music) — музыкальный сервис для настоящих меломанов!  
+
+---
+
+## 📊 Моя статистика GitHub
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=JeinLo&show_icons=true&theme=react-dark&count_private=true&include_all_commits=true" alt="Статистика GitHub" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeinLo&layout=compact&theme=react-dark" alt="Наиболее используемые языки" />
+
+> 💡 Эти блоки — динамические. Они автоматически обновляются при вашей активности на GitHub и отображают:
+> - Общее количество коммитов, репозиториев, звёзд  
+> - Ваши самые используемые языки программирования  
+> 
+> Источник: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📬 Контакты
+
+- 🐱 GitHub: [@JeinLo](https://github.com/JeinLo)  
+- ✉️ Email: [evgbaranovae11@gmail.com](mailto:evgbaranovae11@gmail.com)  
+- 📱 Telegram: [@Evgen_jya](https://t.me/Evgen_jya)  
+
+---
+
+Спасибо за визит! 😊
