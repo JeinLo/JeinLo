@@ -26,15 +26,6 @@
 
 ---
 
-## 📊 Моя статистика GitHub
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=JeinLo&show_icons=true&theme=react-dark&count_private=true" alt="Статистика GitHub" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeinLo&layout=compact&theme=react-dark" alt="Наиболее используемые языки" />
-
----
 
 ## 📬 Контакты
 
